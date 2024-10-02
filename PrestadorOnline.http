@@ -1,0 +1,7 @@
+@PrestadorOnline_HostAddress = http://localhost:5054
+
+GET {{PrestadorOnline_HostAddress}}/prestador
+Accept: application/json
+
+
+###
